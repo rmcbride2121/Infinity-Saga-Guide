@@ -1,5 +1,5 @@
 # Infinity-Saga-Guide
-  An interactive guide to the first three phases of movies in the Marvel Cinematic Universe, also known as The Infinity Saga!
+ An interactive guide to the first three phases of movies in the Marvel Cinematic Universe, also known as The Infinity Saga!
 
 ******************************
 
@@ -27,12 +27,15 @@
 
 * What technologies will you use
 
-I'd like to try to use ReactJS
-I might need a database but I don't know anything about that yet
-I might use a Maps API like MapBox.io
-What questions do YOU have about your app?
+  I'd like to try to use ReactJS
+  I might need a database but I don't know anything about that yet
+  I might use a Maps API like MapBox.io
+  
+******************************
+  
+* What questions do YOU have about your app?
 
-Is the technology choices correct?
-What is a good MVP (minumum viable product)
-Anything to add that would make it a better idea?
-Receive feedback/questions from the class
+  Is the technology choices correct?
+  What is a good MVP (minumum viable product)
+  Anything to add that would make it a better idea?
+  Receive feedback/questions from the class

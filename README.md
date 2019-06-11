@@ -27,9 +27,8 @@
 
 * What technologies will you use
 
-  * I'd like to try to use ReactJS
+  * I will use React.js and Bootstrap
   * I might need a database but I don't know anything about that yet
-  * I might use a Maps API like MapBox.io
   
 ******************************
   

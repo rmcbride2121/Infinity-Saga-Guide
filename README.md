@@ -27,8 +27,8 @@
 
 * What technologies will you use
 
-  * I will use React.js and Bootstrap
-  * I might need a database but I don't know anything about that yet
+  * I will use React.js and Bootstrap.
+  * I might need a database but I don't know anything about that yet.
   
 ******************************
   
